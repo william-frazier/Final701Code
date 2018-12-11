@@ -1,0 +1,10 @@
+C:\Users\William\source\repos\WorkingWithWebView\WorkingWithWebview\bin\Debug\netstandard2.0\WorkingWithWebview.deps.json
+C:\Users\William\source\repos\WorkingWithWebView\WorkingWithWebview\bin\Debug\netstandard2.0\WorkingWithWebview.dll
+C:\Users\William\source\repos\WorkingWithWebView\WorkingWithWebview\bin\Debug\netstandard2.0\WorkingWithWebview.pdb
+C:\Users\William\source\repos\WorkingWithWebView\WorkingWithWebview\obj\Debug\netstandard2.0\WorkingWithWebview.csprojAssemblyReference.cache
+C:\Users\William\source\repos\WorkingWithWebView\WorkingWithWebview\obj\Debug\netstandard2.0\WorkingWithWebview.csproj.CoreCompileInputs.cache
+C:\Users\William\source\repos\WorkingWithWebView\WorkingWithWebview\obj\Debug\netstandard2.0\WorkingWithWebview.AssemblyInfoInputs.cache
+C:\Users\William\source\repos\WorkingWithWebView\WorkingWithWebview\obj\Debug\netstandard2.0\WorkingWithWebview.AssemblyInfo.cs
+C:\Users\William\source\repos\WorkingWithWebView\WorkingWithWebview\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\William\source\repos\WorkingWithWebView\WorkingWithWebview\obj\Debug\netstandard2.0\WorkingWithWebview.dll
+C:\Users\William\source\repos\WorkingWithWebView\WorkingWithWebview\obj\Debug\netstandard2.0\WorkingWithWebview.pdb
