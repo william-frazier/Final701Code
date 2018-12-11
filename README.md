@@ -1,11 +1,1 @@
-Working with WebView
-==============
-
-These samples relate to the [Working with WebView in Xamarin.Forms](http://developer.xamarin.com/guides/cross-platform/xamarin-forms/working-with/webview) doc.
-
-![screenshot](https://raw.githubusercontent.com/xamarin/xamarin-forms-samples/master/WorkingWithWebview/Screenshots/webview-sml.png "Fonts")
-
-Author
-------
-
-Craig Dunn
+Welcome to our Senior Seminar Project, A Hitchhiker's Guide to Middlebury! The purpose of this program is to provide Middlebury College first years with a tool on how to navigate around campus. Through this application, we hope to ease the transition into Middlebury and make it a little bit easier.
